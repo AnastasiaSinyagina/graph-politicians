@@ -1,0 +1,449 @@
+Id,Label,Description
+P1,democrat,party
+P2,republican,party
+P3,libertarian,party
+S1,CA,state
+S2,MO,state
+S3,MI,state
+S4,TX,state
+S5,NY,state
+S6,FL,state
+S7,IL,state
+S8,CO,state
+E1,University of California at Riverside,education
+E2,Harvard College,education
+E3,University of Maryland School of Law,education
+E4,University of Maryland,education
+E5,University of Missouri at Columbia,education
+E6,Harvard University,education
+E7,Hope College,education
+E8,Georgetown University,education
+E9,Texas Tech University,education
+E10,University of Southern California Keck School of Medicine,education
+E11,California State University at Dominguez Hills,education
+E12,University of Texas at Austin,education
+E13,Georgetown University Law Center,education
+E14,Boston University,education
+E15,University of Texas,education
+E16,University of Texas Medical School,education
+E17,North Texas State University,education
+E18,University of South Dakota,education
+E19,Calvin College,education
+E20,Howard University Law School,education
+E21,Adelphi University,education
+E22,California Polytechnic State University-San Luis Obispo,education
+E23,College of the Sequoias,education
+E24,Wheaton College Graduate School,education
+E25,Taylor University,education
+E26,Western Illinois University,education
+E27,Houston Baptist University,education
+E28,Texas A&M University,education
+E29,University of California at Santa Barbara,education
+E30,Fielding University,education
+E31,State University of New York at Albany,education
+E32,Michigan State University,education
+E33,Wayne State University School of Law,education
+E34,University of Detroit,education
+E35,Alma College,education
+E36,University of Texas Law School,education
+E37,California State University,education
+E38,California State University at Bakersfield,education
+E39,Bakersfield College,education
+E40,Central Missouri State University,education
+E41,Harvard University at Cambridge,education
+E42,Harvard University Kennedy School of Government,education
+E43,University of California at Los Angeles,education
+E44,Mohawk Valley Community College,education
+E45,Siena College,education
+E46,Union University,education
+E47,Princeton University,education
+E48,Loras College,education
+E49,University of Colorado,education
+E50,Colorado State University,education
+E51,University of Michigan,education
+E52,Williams College,education
+E53,Yale University,education
+E54,Wesleyan University,education
+E55,University of Virginia,education
+E56,Saint Mary's University,education
+E57,Trinity University,education
+E58,Rice University,education
+E59,Harvard University Law School,education
+E60,Stanford University,education
+E61,Lamar University,education
+E62,Northwestern University Kellogg School of Management,education
+E63,Northwestern University,education
+E64,American University,education
+E65,Baylor University,education
+E66,University of California School of Law at Berkeley,education
+E67,Florida State University,education
+E68,Florida Agricultural and Mechanical (A&M) University,education
+E69,University of Florida,education
+E70,University of South Florida,education
+E71,Prairie View Agricultural and Mechanical University,education
+E72,Columbia University School of International and Public Affairs,education
+E73,American University of Cairo,education
+E74,Cornell University,education
+E75,Florida Agricultural and Mechanical University,education
+E76,Howard University,education
+E77,Fisk University,education
+E78,University of Miami,education
+E79,Northern Illinois University,education
+E80,Bradley University,education
+E81,Laredo Community College,education
+E82,University of Southern California Gould School of Law,education
+E83,University of California,education
+E84,Harvard University School of Law,education
+E85,Texas Wesleyan University School of Law,education
+E86,Embry Riddle Aeronautical University,education
+E87,Del Mar College,education
+E88,Texas Southern University,education
+E89,University of California at Los Angeles (UCLA),education
+E90,University of California at Irvine,education
+E91,University of Houston,education
+E92,Alvin Community College,education
+E93,University of Michigan Law School,education
+E94,University of Chicago,education
+E95,University of Colorado at Boulder,education
+E96,University of Illinois at Chicago,education
+E97,University of Denver,education
+E98,University of Wisconsin at Madison,education
+E99,University of California at Berkeley,education
+E100,Mills College,education
+E101,Ohio State University,education
+E102,Hobart and William Smith Colleges,education
+E103,Central Michigan University,education
+E104,Ohio Northern University,education
+E105,Alfred University,education
+E106,Florence State University,education
+E107,University of Florida College of Veterinary Medicine,education
+E108,Broward Community College,education
+E109,Cañada College,education
+E110,University of Virginia School of Law,education
+E111,Harvard University Extenstion School,education
+E112,Palm Beach Atlantic University,education
+E113,New York University Law School,education
+E114,State University of New York at Binghamton,education
+E115,The City University of New York,education
+E116,Brown University,education
+E117,Regis University,education
+E118,The George Washington University,education
+E119,Loyola University School of Law,education
+E120,Roosevelt University,education
+E121,New York University,education
+E122,University of Texas at El Paso,education
+E123,Millikin University,education
+E124,Capella University,education
+E125,George Washington University,education
+E126,University of Hawaii,education
+E127,Samford University,education
+E128,Wake Forest University,education
+E129,New York University School of Law,education
+E130,Duke University,education
+E131,Colorado College,education
+E132,Johns Hopkins University,education
+E133,Yeshiva University,education
+E134,Chicago State University,education
+E135,Arkansas Agricultural Mechanical and Normal College,education
+E136,Southern Connecticut State University,education
+E137,Missouri State University,education
+E138,Southwest Baptist University,education
+E139,Texas Woman's University,education
+E140,Fordham University Law School,education
+E141,Columbia University,education
+E142,Syracuse University,education
+E143,Western College for Women,education
+E144,University of Missouri-Kansas City,education
+E145,Southern Methodist University,education
+E146,Texas Christian University,education
+E147,Texas Agricultural and Mechanical University,education
+E148,Dartmouth College,education
+E149,Boston College,education
+E150,California Polytechnic University-San Luis Obispo,education
+E151,Butte College,education
+E152,Cerritos College,education
+E153,Texas Southmost College,education
+E154,College of William And Mary,education
+E155,University of Nevada,education
+E156,Tufts University,education
+E157,Fort Lewis College,education
+E158,East Texas State University at Commerce,education
+E159,Brevard Community College,education
+E160,University of West Florida,education
+E161,Gustavus Adolphus College,education
+E162,University of Kansas,education
+E163,Washington and Lee University,education
+E164,Clarkson University at Potsdam,education
+E165,Syracuse University School of Law,education
+E166,Niagara University,education
+E167,Capital University,education
+E168,University of Kentucky,education
+E169,California State University at Los Angeles,education
+E170,Rio Hondo College,education
+E171,National Labor College,education
+E172,Mount Saint Antonio College,education
+E173,Fordham University,education
+E174,University of San Diego,education
+E175,Greensboro College,education
+E176,State University of New York at Geneseo,education
+E177,San Diego State University,education
+E178,Chaffey College,education
+E179,University of Puerto Rico,education
+E180,University of Detroit Mercy,education
+E181,Cleary University,education
+E182,Jacksonville Junior College,education
+E183,Santa Clara University,education
+E184,University of California at Davis,education
+E185,Monterey Peninsula College,education
+E186,Rutgers University,education
+E187,Queens College,education
+E188,Lincoln University,education
+E189,College of William and Mary,education
+E190,Napa Valley College,education
+E191,California State University at Chico,education
+E192,University of Wisconsin,education
+E193,Hastings College of the Law,education
+E194,University of Colorado School of Law,education
+E195,City University of New York,education
+E196,Hunter-Lehman College,education
+E197,University of Illinois,education
+E198,Stetson University,education
+E199,Kenyon College,education
+E200,Illinois State University,education
+E201,University of North Carolina at Chapel Hill,education
+E202,Oklahoma City University,education
+E203,University of Notre Dame,education
+E204,Duke University School of Law,education
+E205,University of Michigan at Ann Arbor,education
+E206,Claremont Graduate University,education
+E207,Pitzer College,education
+E208,University of New Mexico,education
+E209,University of Illinois at Springfield,education
+E210,University of Maryland at College Park,education
+E211,Illinois College,education
+E212,Oral Roberts University,education
+E213,University of Indiana-Bloomington,education
+E214,University of Missouri,education
+E215,Texas Wesleyan University,education
+E216,Western Michigan University,education
+E217,Wayne State University,education
+E218,Trinity College,education
+E219,University of Redlands,education
+E220,Southern Nazarene University,education
+E221,University of Wyoming,education
+E222,Buffalo State College,education
+E223,Fordham University School of Law,education
+E224,Mount Holyoke College,education
+E225,Webster University,education
+E226,University of Notre Dame Law School,education
+E227,Saint Francis College,education
+E228,University of Santa Clara School of Law,education
+E229,Southern Illinois University,education
+E230,Christ College Irvine,education
+E231,Catholic University,education
+E232,Emory University,education
+E233,Oberlin College,education
+H1,Mark Takano,human
+H2,Eric Swalwell,human
+H3,Ann Wagner,human
+H4,John Moolenaar,human
+H5,Jodey Arrington,human
+H6,Charles “Chuck” Schumer,human
+H7,Karen Bass,human
+H8,Lloyd Doggett,human
+H9,Lois Frankel,human
+H10,Michael Burgess,human
+H11,Mark DeSaulnier,human
+H12,Kevin Brady,human
+H13,Bill Huizenga,human
+H14,Gregory Meeks,human
+H15,Devin Nunes,human
+H16,Tim Walberg,human
+H17,Bill Flores,human
+H18,Salud Carbajal,human
+H19,Lee Zeldin,human
+H20,Gary Peters,human
+H21,John Carter,human
+H22,Kevin McCarthy,human
+H23,Vicky Hartzler,human
+H24,Raul Ruiz,human
+H25,Anthony Brindisi,human
+H26,Ted Cruz,human
+H27,Francis Rooney,human
+H28,Darin LaHood,human
+H29,Cory Gardner,human
+H30,Andy Levin,human
+H31,Katie Porter,human
+H32,Michael Bennet,human
+H33,Mike Garcia,human
+H34,Brad Sherman,human
+H35,John Cornyn,human
+H36,Max Rose,human
+H37,Pete Olson,human
+H38,Adam Schiff,human
+H39,Brian Babin,human
+H40,Bradley “Brad” Schneider,human
+H41,Haley Stevens,human
+H42,Louie Gohmert Jr.,human
+H43,Colin Allred,human
+H44,Al Lawson,human
+H45,Joshua Hawley,human
+H46,Gregory Steube,human
+H47,Ross Spano,human
+H48,Emanuel Cleaver II,human
+H49,Elissa Slotkin,human
+H50,Alcee Hastings,human
+H51,Marco Rubio,human
+H52,Robin Kelly,human
+H53,Henry Cuellar,human
+H54,Nanette Barragán,human
+H55,Vicente Gonzalez,human
+H56,Al Green,human
+H57,Jimmy Gomez,human
+H58,Ami Bera,human
+H59,Daniel Webster,human
+H60,Frederica Wilson,human
+H61,Randy Weber,human
+H62,Justin Amash,human
+H63,Ro Khanna,human
+H64,Joe Neguse,human
+H65,Jesús García,human
+H66,Mac Thornberry,human
+H67,Jason Crow,human
+H68,Ron Wright,human
+H69,Barbara Lee,human
+H70,Alan Lowenthal,human
+H71,Daniel Kildee,human
+H72,Chip Roy,human
+H73,Ted Lieu,human
+H74,Tom Reed II,human
+H75,Ted Yoho,human
+H76,Anna Eshoo,human
+H77,Sean Maloney,human
+H78,Raja Krishnamoorthi,human
+H79,Maxine Waters,human
+H80,Brian Mast,human
+H81,Paul Mitchell,human
+H82,Hakeem Jeffries,human
+H83,José Serrano,human
+H84,Gilbert Cisneros,human
+H85,Lacy Clay Jr.,human
+H86,Mike Quigley,human
+H87,Veronica Escobar,human
+H88,Rodney Davis,human
+H89,Debbie Stabenow,human
+H90,Tammy Duckworth,human
+H91,Charlie Crist,human
+H92,Scott Peters,human
+H93,Van Taylor,human
+H94,Filemon Vela,human
+H95,Diana DeGette,human
+H96,Lauren Underwood,human
+H97,Debbie Wasserman Schultz,human
+H98,Grace Meng,human
+H99,Danny Davis,human
+H100,Paul Cook,human
+H101,Roy Blunt,human
+H102,Michael Waltz,human
+H103,Sylvia Garcia,human
+H104,Jerrold Nadler,human
+H105,Donna Shalala,human
+H106,Rick Scott,human
+H107,Judy Chu,human
+H108,Roger Williams,human
+H109,Will Hurd,human
+H110,Kirsten Gillibrand,human
+H111,Jared Huffman,human
+H112,Doug LaMalfa,human
+H113,Grace Napolitano,human
+H114,Stephanie Murphy,human
+H115,TJ Cox,human
+H116,Dan Crenshaw,human
+H117,Mario Diaz-Balart,human
+H118,Scott Tipton,human
+H119,Josh Harder,human
+H120,Michael Conaway,human
+H121,Bill Posey,human
+H122,Jack Bergman,human
+H123,Doug Lamborn,human
+H124,Neal Dunn,human
+H125,Paul Tonko,human
+H126,John Katko,human
+H127,Harley Rouda,human
+H128,Lucille Roybal-Allard,human
+H129,Norma Torres,human
+H130,Juan Vargas,human
+H131,Carolyn Maloney,human
+H132,Joseph Morelle,human
+H133,Ken Calvert,human
+H134,Nydia Velázquez,human
+H135,Brenda Lawrence,human
+H136,Elise Stefanik,human
+H137,Vern Buchanan,human
+H138,Sean Casten,human
+H139,John Rutherford,human
+H140,Joaquin Castro,human
+H141,Jimmy Panetta,human
+H142,Adriano Espaillat,human
+H143,Theodore “Ted” Deutch,human
+H144,Blaine Luetkemeyer,human
+H145,Matt Gaetz,human
+H146,John Garamendi,human
+H147,Jim Costa,human
+H148,Linda Sánchez,human
+H149,Mike Thompson,human
+H150,Bill Foster,human
+H151,Kamala Harris,human
+H152,Ed Perlmutter,human
+H153,Tony Cárdenas,human
+H154,Eliot Engel,human
+H155,Janice “Jan” Schakowsky,human
+H156,Sheila Jackson Lee,human
+H157,Gus Bilirakis,human
+H158,Lizzie Fletcher,human
+H159,Lance Gooden,human
+H160,Adam Kinzinger,human
+H161,Susan Davis,human
+H162,Jason Smith,human
+H163,Tom McClintock,human
+H164,Eddie Johnson,human
+H165,Mike Levin,human
+H166,Fred Upton,human
+H167,Debbie Mucarsel-Powell,human
+H168,Jerry McNerney,human
+H169,Cheri Bustos,human
+H170,Luis Correa,human
+H171,Doris Matsui,human
+H172,Michael Cloud,human
+H173,Billy Long,human
+H174,Marc Veasey,human
+H175,Rashida Tlaib,human
+H176,Kay Granger,human
+H177,Darren Soto,human
+H178,Nancy Pelosi,human
+H179,Pete Aguilar,human
+H180,Kenny Marchant,human
+H181,Daniel Lipinski,human
+H182,Ken Buck,human
+H183,Brian Higgins,human
+H184,Michael McCaul,human
+H185,Alexandria Ocasio-Cortez,human
+H186,Debbie Dingell,human
+H187,Mike Bost,human
+H188,Jackie Speier,human
+H189,Thomas Suozzi,human
+H190,Chris Jacobs,human
+H191,Bobby Rush,human
+H192,Nita Lowey,human
+H193,Val Demings,human
+H194,Antonio Delgado,human
+H195,Peter “Pete” King,human
+H196,Zoe Lofgren,human
+H197,John Shimkus,human
+H198,Kathleen Rice,human
+H199,Sam Graves,human
+H200,Kathy Castor,human
+H201,Yvette Clarke,human
+H202,Julia Brownley,human
+H203,Richard Durbin,human
+H204,Dianne Feinstein,human
